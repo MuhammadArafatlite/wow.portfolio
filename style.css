@@ -20,3 +20,13 @@ section{
 .width-down img{
     width: 100%;
 }
+.button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border: 2 px solid goldenrod;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: 700px;
+}
