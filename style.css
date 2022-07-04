@@ -1,0 +1,22 @@
+body{
+    font-family: 'Merienda One', cursive;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 35px;
+}
+span{
+    color: orange;
+}
+section{
+    display: flex;
+}
+
+.width-down {
+    width:50%;
+}
+.width-down img{
+    width: 100%;
+}
